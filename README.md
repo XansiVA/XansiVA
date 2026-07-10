@@ -1,4 +1,4 @@
-# I am Xansi nice to meet you :3
+# I am Xansi nice to meet you.
 
 I work in C, C++, Python, A little bit of (Rust)ing around, GLSL, Vulkan Graphics API, Wayland Graphics Stack, and NVIDIA and AMD driver things.
 My favorite IDEs / Text editors are Vscode, [Fresh IDE](https://getfresh.dev/) and Neovim.
